@@ -23,7 +23,8 @@
     "dot": "~1.0.3",
     "dotenv": "^2.0.0",
     "fs-extra": "~0.26.4",
-    "acc-fxn": "~0.0.4",
+    /* "acc-fxn": "~0.0.4",*/
+    "acc-fxn": "https://github.com/AccelerationNet/acc-fxn.git",
     "i": "~0.3.4",
     "inquirer": "~0.11.3",
     "mime-types": "~2.1.9",
